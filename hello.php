@@ -1,2 +1,5 @@
-<? echo "hello friendly person!"; ?>
-dsfsd
+<? echo "hello friendly person!"; 
+	echo "ensure the primary is in place";
+	echo "New info";
+	
+?>
