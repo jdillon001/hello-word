@@ -1,5 +1,9 @@
-<? echo "hello friendly person!"; 
-	echo "ensure the primary is in place";
-	echo "New info";
+<? 
+	echo "screen call";
+	echo "ensure all primary systems are operational";
+	echo "what does anything eman";
+	
+	$query="bumb";
+	
 	
 ?>
